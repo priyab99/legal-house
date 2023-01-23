@@ -14,3 +14,10 @@
 .text-left{
     text-align: left;
 }
+.carousel .carousel-item {
+    height: 500px;
+  }
+  .carousel-item img{
+    height: 500px;
+}
+
